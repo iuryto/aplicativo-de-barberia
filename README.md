@@ -39,9 +39,8 @@ Here you list all prerequisites necessary for running your project. For example:
 
 How to clone your project
 
-```bash
-git clone https://github.com/Fernanda-Kipper/login-page.git
-```
+
+
 
 <h3>Starting</h3>
 
@@ -68,5 +67,5 @@ Here you can list the main routes of your API, and what are their expected reque
 . Follow commit patterns
 . Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
 
-<h3>Documentations that might help</h3>
+
 
